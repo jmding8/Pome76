@@ -10,7 +10,7 @@ If you are interested in one, let me know as I still have 3 leftover PCBs.
 
 The keymap is a big part of this board's concept. For the below keymap, blue = left, red = right, and white = infrequently used.
 
-![Keymap](/images/keymap.jpg)
+![Keymap](/images/keymap.png)
 
 In addition, there are the following combos:
 
