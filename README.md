@@ -1,5 +1,7 @@
 # Pome76
 
+![Pome76](/images/pome76.jpg)
+
 Pome76 is a keyboard that attempts to improve over the usability of ~60% form-factor keyboards by adding thumb-keys, with a premium look, feel and sound. The case comes from a Neo65, which was modified to accept a PCB based on the nice!nano v2. It runs on ZMK firmware, and is wireless with an estimated battery life of ~1 year.
 
 # Why?
