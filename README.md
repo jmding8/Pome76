@@ -10,24 +10,24 @@ If you are interested in one, let me know as I still have 3 leftover PCBs.
 
 TLDR: For me, columnar-stagger and low-profile are not worth it. And unibody lets me reuse the Neo65 case while still keeping a 95mm gap between hands.
 
-**Why row stagger?** I have used Kyria (columnar-stagger) and Kinesis Advantage (sculpted key-well) keyboards extensively in the past but found that, for me at least, their main advantages were not related to their alternative form-factors. For me, the big strengths of these two keyboards were:
+**Why row stagger?** I have used a Kyria (columnar-stagger) and a Kinesis Advantage (sculpted key-well) extensively in the past but found that for me, their main advantages were not related to their form-factor. For me at least, their big strengths are:
 
-1. Improved comfort due to reducing ulnar deviation by relocating Shift and Ctrl away from the lower left corner, and towards the center of the keyboard.
-2. Improved accessibility of the navigation keys through (arrows, home, end, page up/down).
+1. Improved comfort due to relocating Shift and Ctrl away from the lower left corner, towards the center of the keyboard (reduced ulnar deviation).
+2. Improved accessibility of the navigation keys through layers (arrows, home, end, page up/down).
 
-These strengths can be achieved in a row-stagger format.
+These advantages can be had in a row-stagger format.
 
-Note, I do not have RSI or carpal tunnel syndrome, which could be why I didn't feel a meaningful benefit to the columnar-stagger or sculpted key-well form-factors.
+Note, I do not have RSI or carpal tunnel syndrome which could be why I don't feel a meaningful improvement from columnar-stagger or sculpted key-wells.
 
-On the other hand, I noticed that using a columnar-stagger or sculpted key-well keyboard made it difficult to use a regular keyboard, which I sometimes need to do especially while traveling. This was a meaningful drawback for me.
+On the other hand, I noticed that using columnar-stagger or sculpted key-well keyboards made it difficult to go back to a regular keyboard. Since that is something I occasionally need to do, especially while traveling, it is a meaningful drawback for me.
 
-**Why MX instead of low-profile?** My previous daily driver for the last couple years has been the [Mercury (low-profile, 42 key, split)](https://github.com/jmding8/MercuryKeyboard), which I built to be as low as practically possible. However, it still wasn't low enough and I still had to use a wrist rest.
+**Why MX instead of low-profile?** My previous daily driver for the last couple years has been the [Mercury (low-profile, 42 key, split)](https://github.com/jmding8/MercuryKeyboard), which is designed to be as low as practically possible. However it still isn't low enough and I still have to use a wrist rest.
 
-Also, low-profile "Choc" switches are relatively quiet and sound pretty bad overall. I think this subconsciously made me type harder: maybe I rely on the auditory feedback when I type? In any case, this could get tiring and frustrating, and since the MX ecosystem has way more options overall, it seems like a better fit for me.
+Also, low-profile "Choc" switches are relatively quiet and also sound pretty bad overall. I think this subconsciously encourages me to type with more force: maybe I rely on the auditory feedback? In any case this can get tiring and frustrating. Since the MX ecosystem is so much more developed overall, it is a much better platform for sound tuning.
 
-Finally, it is a LOT of fun to play around with different switches and keycaps, which is really only possible within the MX ecosystem.
+Finally, it is a LOT of fun to play around with different switches and keycaps, and there are way more options within the MX ecosystem.
 
-**Why unibody instead of split?** There are lots of beautiful keyboards these days, and modifying one of these is an easy way to make a premium feeling product. Plus, by getting creative with the keymap, I can put a 5u / 95mm effective gap between the left and right hands which will probably be enough for my purposes. Unibody also basically doubles battery life.
+**Why unibody instead of split?** It's just a lot easier to get a premium feeling result by modifying an existing keyboard, than it is to design and manufacture a premium custom split. Plus, by getting creative with the keymap, I can still put a 5u / 95mm effective gap between my hands (see the position of the F and J keys). Unibody also basically doubles battery life.
 
 # Build Notes
 
