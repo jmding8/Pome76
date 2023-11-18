@@ -4,7 +4,12 @@
 
 Pome76 is a keyboard that attempts to strike a personal balance between productivity, ergonomics, aesthetics, and cost. It starts as a Neo65 and adds a custom PCB powered by a nice!nano v2 and ZMK firmware. It is designed around an unconventional keymap which pushes the home positions as far towards the left and right edges of the board board as possible (note the position of the F and J keys).
 
-If you are interested in one, let me know as I still have 3 leftover PCBs.
+If you are interested in one, let me know as I still have leftover PCBs.
+
+# Table of Contents
+1. [Keymap](#keymap)
+1. [Why these design choices?](#why-these-design-choices)
+1. [Build notes](#build-notes)
 
 # Keymap
 
@@ -26,20 +31,20 @@ In addition, there are the following combos:
 
 Some of the ideas involved with this keymap:
 
-* Dividing roles means every key + modifier combination is accessible, even weird ones like Ctrl + Shift + F5.
-  * Left fingers control layers
-  * Right fingers control layered keys
-  * Left thumb controls modifiers
-* The two hands are pushed as far to the left and right edges of the keyboard as possible. The keys in between are relatively unused.
-* Using combos with tight timeouts (35ms) to control modifiers and layers makes it possible to put them on the home row, with basically zero accidental activations even when rolling keys.
-* Putting combos on keys that are typically controlled by one finger (i.e. `RG` = Tab), or keys that are very infrequently typed in sequence (i.e. `,.` = Forward Slash ) permits the use of a very loose timeout (200ms).
+* Dividing roles allows access to weird key + modifier combinations (e.g. Ctrl + Shift + F5).
+  * The left fingers control layer activation
+  * The right fingers control the layered keys
+  * The left thumb controls modifiers
+* The two hands are pushed as far towards the left and right edges of the keyboard as possible. The keys in between are relatively unused.
+* Using combos with tight timeouts (35ms) to control layers (and Shift) makes it possible to put them on the home row with basically zero accidental activations, even when rolling keys.
+* Putting other combos on keys that are typically controlled by one finger (i.e. `RG` = Tab), or keys that are very infrequently typed in sequence (i.e. `,.` = Forward Slash) permits the use of a very loose timeouts (200ms).
 
-There are a bunch of other details that make this a very polished experience that are out of scope for this document, but if you are interested, please reach out. For example:
+There are a bunch of other details that help make for a more polished experience. If you are interested to learn more, please reach out. For example:
 
 * Aggressively using positional hold-tap in combination with tap-unless-interrupted really helps prevent accidental home-row modifier activation.
 * The `SD` Shift and `DF` Numbers Layer combos are actually not actually implemented as combos. They are implemented using layer-tap and macro functionality, which allows them to be combined into `SDF` = Shifted Numbers Layer. The same goes for `XC` Shift and `CV` F-Keys Layer.
 
-# Why?
+# Why these design choices?
 
 TLDR: For me, columnar-stagger and low-profile are not worth the drawbacks. And unibody lets me reuse the Neo65 case while still having a 95mm gap between hands.
 
