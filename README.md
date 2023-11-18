@@ -23,7 +23,7 @@ I have to admit, it is a LOT of fun to play around with different switches and k
 
 Another minor advantage of unibody is that battery life is doubled.
 
-# Build Along
+# Build Notes
 
 ## 1. Flush mounting the nice!nano
 
