@@ -2,7 +2,9 @@
 
 ![Pome76](/images/pome76.jpg)
 
-Pome76 is a keyboard that tries to improve the usability and ergonomics of the 65% form-factor by adding thumb-keys, and by shifting the letter keys as far to the left and right edges of the board as possible (note where the F and J keys are located). It does this while still trying to deliver a premium look and feel by starting with the Neo65 platform. The Pome76 is powered by the nice!nano v2 and ZMK firmware, and has an estimated battery life of ~1 year.
+Pome76 is a keyboard that tries to improve the usability and ergonomics of the 65% form-factor by adding thumb-keys, and by shifting the letter keys as far to the left and right edges of the board as possible (note the position of the F and J keys). It does this while still trying to deliver a premium look and feel, and at a reasonable price, by starting with the Neo65 platform. The Pome76 is powered by the nice!nano v2 and ZMK firmware, and has an estimated battery life of ~1 year.
+
+If you are interested in one, let me know as I still have 3 leftover PCBs.
 
 # Why?
 
