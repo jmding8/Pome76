@@ -8,22 +8,19 @@ If you are interested in one, let me know as I still have 3 leftover PCBs.
 
 # Keymap
 
-The keymap is a big part of this board's concept. For the below keymap, blue = left, red = right, and white = infrequently used.
+The keymap is a big part of this board's concept. Blue = left, red = right, and white = infrequently used.
 
 ![Keymap](/images/keymap.png)
 
 In addition, there are the following combos:
 
-1. `SD` = Shift
-1. `DF` = Numbers layer
-1. `XC` = Shift layer
-1. `CF` = F-keys layer
-1. `KL` = Shift
+1. `SD`, `XC`, or `KL` = Shift
+1. `DF` = Numbers Layer (can be combined with `SD`, i.e. `SDF` = Shifted Numbers Layer)
+1. `CV` = F-Keys Layer (can be combined with `XC`, i.e. `XCV` = Shifted F-Keys Layer)
 1. `RG` = Tab
 1. `FG` = Esc
 1. `JK` = Quote
-1. `,.` = Forward slash
-1. `HU` = Menu
+1. `,.` = Forward Slash
 1. `NM` = Caps Lock
 1. `HU` = Menu
 
@@ -35,8 +32,12 @@ Some of the ideas involved with this keymap:
   * Left thumb controls modifiers
 * The two hands are pushed as far to the left and right edges of the keyboard as possible. The keys in between are relatively unused.
 * Using combos with tight timeouts (35ms) to control modifiers and layers makes it possible to put them on the home row, with basically zero accidental activations even when rolling keys.
-* Putting combos on keys that are typically controlled by one finger (e.g. `RG` = Tab) permits the use of a very loose timeout (200ms).
+* Putting combos on keys that are typically controlled by one finger (i.e. `RG` = Tab), or keys that are very infrequently typed in sequence (i.e. `,.` = Forward Slash ) permits the use of a very loose timeout (200ms).
 
+There are a bunch of other details that make this a very polished experience that are out of scope for this document, but if you are interested, please reach out. For example:
+
+* Aggressively using positional hold-tap in combination with tap-unless-interrupted really helps prevent accidental home-row modifier activation.
+* The `SD` Shift and `DF` Numbers Layer combos are actually not actually implemented as combos. They are implemented using layer-tap and macro functionality, which allows them to be combined into `SDF` = Shifted Numbers Layer. The same goes for `XC` Shift and `CV` F-Keys Layer.
 
 # Why?
 
