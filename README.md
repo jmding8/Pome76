@@ -2,26 +2,58 @@
 
 ![Pome76](/images/pome76.jpg)
 
-Pome76 is a keyboard that tries to improve the usability and ergonomics of the 65% form-factor by adding thumb-keys, and by shifting the letter keys as far towards the left and right edges of the board as possible (note the position of the F and J keys). It does this while still trying to deliver a premium look and feel at a reasonable cost, by starting with the Neo65 platform. The Pome76 is powered by the nice!nano v2 and ZMK firmware, and has an estimated battery life of ~1 year.
+Pome76 is a keyboard that attempts to strike a personal balance between productivity, ergonomics, aesthetics, and cost. It starts as a Neo65 and adds a custom PCB powered by a nice!nano v2 and ZMK firmware. It is designed around an unconventional keymap which pushes the home positions as far towards the left and right edges of the board board as possible (note the position of the F and J keys).
 
 If you are interested in one, let me know as I still have 3 leftover PCBs.
 
+# Keymap
+
+The keymap is a big part of this board's concept. For the below keymap, blue = left, red = right, and white = infrequently used.
+
+![Keymap](/images/keymap.jpg)
+
+In addition, there are the following combos:
+
+1. `SD` = Shift
+1. `DF` = Numbers layer
+1. `XC` = Shift layer
+1. `CF` = F-keys layer
+1. `KL` = Shift
+1. `RG` = Tab
+1. `FG` = Esc
+1. `JK` = Quote
+1. `,.` = Forward slash
+1. `HU` = Menu
+1. `NM` = Caps Lock
+1. `HU` = Menu
+
+Some of the ideas involved with this keymap:
+
+* Dividing roles means every key + modifier combination is accessible, even weird ones like Ctrl + Shift + F5.
+  * Left fingers control layers
+  * Right fingers control layered keys
+  * Left thumb controls modifiers
+* The two hands are pushed as far to the left and right edges of the keyboard as possible. The keys in between are relatively unused.
+* Using combos with tight timeouts (35ms) to control modifiers and layers makes it possible to put them on the home row, with basically zero accidental activations even when rolling keys.
+* Putting combos on keys that are typically controlled by one finger (e.g. `RG` = Tab) permits the use of a very loose timeout (200ms).
+
+
 # Why?
 
-TLDR: For me, columnar-stagger and low-profile are not worth it. And unibody lets me reuse the Neo65 case while still keeping a 95mm gap between hands.
+TLDR: For me, columnar-stagger and low-profile are not worth the drawbacks. And unibody lets me reuse the Neo65 case while still having a 95mm gap between hands.
 
-**Why row stagger?** I have used a Kyria (columnar-stagger) and a Kinesis Advantage (sculpted key-well) extensively in the past but found that for me, their main advantages were not related to their form-factor. For me at least, their big strengths are:
+**Why row stagger?** I have used a Kyria (columnar-stagger) and a Kinesis Advantage (sculpted key-well) extensively in the past but found that for me, the main advantage of these keyboards is not due to the non-standard physical layout. For me at least, their big strengths are:
 
-1. Improved comfort due to relocating Shift and Ctrl away from the lower left corner, towards the center of the keyboard (reduced ulnar deviation).
-2. Improved accessibility of the navigation keys through layers (arrows, home, end, page up/down).
+1. Improved comfort due to relocating the Shift and Ctrl keys away from the lower left corner, towards the center of the board (i.e. reduced ulnar deviation).
+2. Improved accessibility of the navigation keys through the use of layers (arrows, home, end, page up/down).
 
-These advantages can be had in a row-stagger format.
+These are features we can have in a row-stagger format.
 
-Note, I do not have RSI or carpal tunnel syndrome which could be why I don't feel a meaningful improvement from columnar-stagger or sculpted key-wells.
+I also noticed that using a columnar-stagger or sculpted key-well board makes it difficult for me to go back to a regular keyboard. Since I am sometimes forced to do this (while traveling for example), it is a meaningful drawback for me. On balance, migrating away from row-staggered layouts just isn't worth it for me. 
 
-On the other hand, I noticed that using columnar-stagger or sculpted key-well keyboards made it difficult to go back to a regular keyboard. Since that is something I occasionally need to do, especially while traveling, it is a meaningful drawback for me.
+Note, I do not have RSI or carpal tunnel syndrome, which may be part of why I don't find columnar-stagger or sculpted key-wells worth it.
 
-**Why MX instead of low-profile?** My previous daily driver for the last couple years has been the [Mercury (low-profile, 42 key, split)](https://github.com/jmding8/MercuryKeyboard), which is designed to be as low as practically possible. However it still isn't low enough and I still have to use a wrist rest.
+**Why MX instead of low-profile?** My previous daily driver for the last couple years has been the [Mercury (low-profile, 42 key, split)](https://github.com/jmding8/MercuryKeyboard) which is designed to be as low as practically possible. However it still isn't low enough and I still have to use a wrist rest.
 
 Also, low-profile "Choc" switches are relatively quiet and also sound pretty bad overall. I think this subconsciously encourages me to type with more force: maybe I rely on the auditory feedback? In any case this can get tiring and frustrating. Since the MX ecosystem is so much more developed overall, it is a much better platform for sound tuning.
 
