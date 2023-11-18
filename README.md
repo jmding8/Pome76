@@ -2,7 +2,7 @@
 
 ![Pome76](/images/pome76.jpg)
 
-Pome76 is a keyboard that tries to improve the usability and ergonomics of the 65% form-factor by adding thumb-keys, and by shifting the letter keys as far the left and right edges of the board as possible. It does this while still trying to delivering a premium look and feel by starting with the Neo65 platform. The Pome76 is powered by the nice!nano v2 and ZMK firmware, and has an estimated battery life of ~1 year.
+Pome76 is a keyboard that tries to improve the usability and ergonomics of the 65% form-factor by adding thumb-keys, and by shifting the letter keys as far to the left and right edges of the board as possible (note where the F and J keys are located). It does this while still trying to deliver a premium look and feel by starting with the Neo65 platform. The Pome76 is powered by the nice!nano v2 and ZMK firmware, and has an estimated battery life of ~1 year.
 
 # Why?
 
@@ -67,7 +67,7 @@ I replaced the Neo65's stock daughter board with a female USB-C breakout board (
 
 ![Female breakout board](/images/usb1.jpg)
 
-The breakout board has capacitors connecting the CC1 and CC2 pins to GND. Without these capacitors, the keyboard doesn't work when connected via a USB-C to USB-C cable. Since these capacitors are on the top side of the breakout board PCB, I had to drill two divots to accomodate them. To prevent an accidental short against the raw aluminum, I taped the bottom of the breakout board with Kapton tape:
+The breakout board has capacitors connecting the CC1 and CC2 pins to GND. Without these capacitors, the keyboard doesn't work when connected via a USB-C to USB-C cable. Since these capacitors are on the top side of the breakout board PCB, I had to drill two divots to accommodate them. To prevent an accidental short against the raw aluminum, I taped the bottom of the breakout board with Kapton tape:
 
 ![Capacitor clearance](/images/usb2.jpg)
 
