@@ -13,10 +13,12 @@ If you are interested in one, let me know as I still have leftover PCBs.
 
 # Keymap
 
-The keymap is a big part of this board's concept. Blue = left, red = right, and white = infrequently used.
+Blue = left hand, red = right hand, and white = infrequently used:
 
 ![Keymap](/images/keymap.png)
 
+<details>
+  <summary>More keymap details (expand me)</summary>
 In addition, there are the following combos:
 
 1. `SD`, `XC`, or `KL` = Shift
@@ -43,6 +45,8 @@ There are a bunch of other details that help make for a more polished experience
 
 * Aggressively using positional hold-tap in combination with tap-unless-interrupted really helps prevent accidental home-row modifier activation.
 * The `SD` Shift and `DF` Numbers Layer combos are actually not actually implemented as combos. They are implemented using layer-tap and macro functionality, which allows them to be combined into `SDF` = Shifted Numbers Layer. The same goes for `XC` Shift and `CV` F-Keys Layer.
+
+</details>
 
 # Why these design choices?
 
