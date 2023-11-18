@@ -8,7 +8,7 @@ If you are interested in one, let me know as I still have 3 leftover PCBs.
 
 # Why?
 
-TLDR: For me, columnar-stagger and low-profile are not worth it. And unibody lets me reuse the Neo65 case.
+TLDR: For me, columnar-stagger and low-profile are not worth it. And unibody lets me reuse the Neo65 case while still keeping a 95mm gap between hands.
 
 **Why row stagger?** I have used Kyria (columnar-stagger) and Kinesis Advantage (sculpted key-well) keyboards extensively in the past but found that, for me at least, their main advantages were not related to their alternative form-factors. For me, the big strengths of these two keyboards were:
 
