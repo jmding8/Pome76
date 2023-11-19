@@ -88,6 +88,8 @@ Finally, it is a LOT of fun to play around with different switches and keycaps, 
 
 # Build Notes
 
+![Guts](/images/battery1.jpg)
+
 <details>
   <summary><b>Flush mounting the nice!nano</b></summary>
 
