@@ -18,7 +18,7 @@ Blue = left hand, red = right hand, and white = infrequently used:
 ![Keymap](/images/keymap.png)
 
 <details>
-  <summary>**Combos**</summary>
+  <summary><b>Combos</b></summary>
 
 1. `SD`, `XC`, or `KL` = Shift
 1. `DF` = Numbers Layer (can be combined with `SD`, i.e. `SDF` = Shifted Numbers Layer)
@@ -33,7 +33,7 @@ Blue = left hand, red = right hand, and white = infrequently used:
 </details>
 
 <details>
-  <summary>**Core concepts**</summary>
+  <summary><b>Core concepts</b></summary>
 
 * Dividing roles allows access to weird key + modifier combinations (e.g. Ctrl + Shift + F5).
   * The left fingers control layer activation
@@ -46,7 +46,7 @@ Blue = left hand, red = right hand, and white = infrequently used:
 </details>
 
 <details>
-  <summary>**Other keymap details**</summary>
+  <summary><b>Other keymap details</b></summary>
 
 There are a bunch of other details that help make for a more polished experience. If you are interested to learn more, please reach out. For example:
 
@@ -60,7 +60,7 @@ There are a bunch of other details that help make for a more polished experience
 TLDR: For me, columnar-stagger and low-profile are not worth the drawbacks. And unibody lets me reuse the Neo65 case while still having a 95mm gap between hands.
 
 <details>
-  <summary>**Why row stagger?**</summary>
+  <summary><b>Why row stagger?</b></summary>
 
  I have used a Kyria (columnar-stagger) and a Kinesis Advantage (sculpted key-well) extensively in the past but found that for me, the main advantage of these keyboards is not due to the non-standard physical layout. For me at least, their big strengths are:
 
@@ -76,7 +76,7 @@ Note, I do not have RSI or carpal tunnel syndrome, which may be part of why I do
 </details>
 
 <details>
-  <summary>**Why MX instead of low-profile?**</summary>
+  <summary><b>Why MX instead of low-profile?</b></summary>
 
 My previous daily driver for the last couple years has been the [Mercury (low-profile, 42 key, split)](https://github.com/jmding8/MercuryKeyboard) which is designed to be as low as practically possible. However it still isn't low enough and I still have to use a wrist rest.
 
@@ -87,14 +87,14 @@ Finally, it is a LOT of fun to play around with different switches and keycaps, 
 </details>
 
 <details>
-  <summary>**Why unibody instead of split?**</summary>
+  <summary><b>Why unibody instead of split?</b></summary>
   It's just a lot easier to get a premium feeling result by modifying an existing keyboard, than it is to design and manufacture a premium custom split. Plus, by getting creative with the keymap, I can still put a 5u / 95mm effective gap between my hands (see the position of the F and J keys). Unibody also basically doubles battery life.
 </details>
 
 # Build Notes
 
 <details>
-  <summary>**Flush mounting the nice!nano**</summary>
+  <summary><b>Flush mounting the nice!nano</b></summary>
 
 The nice!nano sits below the PCB, which means it must be soldered so that the pins to not poke through the PCB and hit the keyswitches above:
 
@@ -119,7 +119,7 @@ Finally, I soldered the nice!nano in place and snipped off the excess pin length
 </details>
 
 <details>
-  <summary>**Modifying the case**</summary>
+  <summary><b>Modifying the case</b></summary>
 
 Using a hand drill, a 3mm bit, and a hand file, I cut out a portion of the Neo65 case:
 
@@ -132,7 +132,7 @@ When assembled, the nice!nano fits into this cutout nicely:
 </details>
 
 <details>
-  <summary>**USB daughter board**</summary>
+  <summary><b>USB daughter board</b></summary>
 
 I replaced the Neo65's stock daughter board with a female USB-C breakout board (red), held in place with a 3d printed bracket and the original screws:
 
@@ -153,7 +153,7 @@ Finally, the male breakout board plugged in to the nice!nano:
 </details>
 
 <details>
-  <summary>**Battery**</summary>
+  <summary><b>Battery</b></summary>
 
 The battery is a generic 3040102 (3mm x 40mm x 102mm) that fits very well into the battery cutout. The cutout is 4mm thick, and it is important that the battery is thinner than this to avoid a Note7-style fire. The battery is held in place with some more Kapton tape.
 
@@ -166,7 +166,7 @@ The battery's wires are soldered to the corresponding pads on the PCB.
 </details>
 
 <details>
-  <summary>**Gaskets**</summary>
+  <summary><b>Gaskets</b></summary>
 
 The Neo65's PCB is held in place by rubber "gaskets". I trimmed the ones that were blocking the keyswitches.
 
