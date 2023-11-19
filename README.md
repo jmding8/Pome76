@@ -4,9 +4,7 @@
 
 Pome76 attempts to balance productivity, ergonomics, aesthetics, and cost. It is a Neo65 with a custom nice!nano based PCB and ZMK firmware. It uses an unusual keymap which pushes the home positions to the left and right edges of the board.
 
-If you are interested in one, let me know as I still have leftover PCBs.
-
-Gerber files are coming soon.
+If you are interested in one, I may have PCBs for sale. Gerber files are coming soon.
 
 # Keymap
 
