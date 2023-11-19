@@ -31,22 +31,22 @@ Blue = left hand, red = right hand, and white = rarely used:
   <summary><b>Core concepts</b></summary>
 
 * Dividing roles allows access to weird key + modifier combinations (e.g. Ctrl + Shift + F5).
-  * The left fingers control layer activation
-  * The right fingers control the layered keys
-  * The left thumb controls modifiers
-* The two hands are pushed as far towards the left and right edges of the keyboard as possible. The keys in between are relatively unused.
-* Using combos with tight timeouts (35ms) to control layers (and Shift) makes it possible to put them on the home row with basically zero accidental activations, even when rolling keys.
-* Putting other combos on keys that are typically controlled by one finger (i.e. `RG` = Tab), or keys that are very infrequently typed in sequence (i.e. `,.` = Forward Slash) permits the use of a very loose timeouts (200ms).
+  * The left fingers control layer activation.
+  * The right fingers control the layered keys.
+  * The left thumb controls modifiers.
+* The two hands are pushed as far towards the left and right edges of the keyboard as possible to mimic a split keyboard. The keys in between are rarely used.
+* Using combos with tight timeouts (35ms) to control layers (and Shift) makes it possible to put them on the home row with basically zero accidental activations, even when rolling keys while typing quickly.
+* Putting combos on keys that are typically controlled by one finger (i.e. `RG`), or keys that are very infrequently typed in sequence (i.e. `,.`) permits the use of a very loose timeouts (200ms).
 
 </details>
 
 <details>
   <summary><b>Other keymap details</b></summary>
 
-There are a bunch of other details that help make for a more polished experience. If you are interested to learn more, please reach out. For example:
+There are many implementation details that contribute to a polished user experience. If you are interested to learn more, please reach out. For example:
 
 * Aggressively using positional hold-tap in combination with tap-unless-interrupted really helps prevent accidental home-row modifier activation.
-* The `SD` Shift and `DF` Numbers Layer combos are actually not actually implemented as combos. They are implemented using layer-tap and macro functionality, which allows them to be combined into `SDF` = Shifted Numbers Layer. The same goes for `XC` Shift and `CV` F-Keys Layer.
+* The `SD` Shift and `DF` Numbers Layer combos are not actually implemented using ZMK's combo feature. They are implemented using layer-tap and macro functionality, which allows them to be combined. For example, `SD` = Shift, `DF` = Numbers Layer, and when used together `SDF` = Shifted Numbers Layer.
 
 </details>
 
