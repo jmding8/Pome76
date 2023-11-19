@@ -6,11 +6,6 @@ Pome76 is a keyboard that attempts to strike a personal balance between producti
 
 If you are interested in one, let me know as I still have leftover PCBs.
 
-# Table of Contents
-1. [Keymap](#keymap)
-1. [Why these design choices?](#why-these-design-choices)
-1. [Build notes](#build-notes)
-
 # Keymap
 
 Blue = left hand, red = right hand, and white = infrequently used:
