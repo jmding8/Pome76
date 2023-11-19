@@ -6,6 +6,8 @@ Pome76 is a keyboard that attempts to strike a personal balance between producti
 
 If you are interested in one, let me know as I still have leftover PCBs.
 
+Gerber files are coming soon.
+
 # Keymap
 
 Blue = left hand, red = right hand, and white = infrequently used:
@@ -129,7 +131,7 @@ When assembled, the nice!nano fits into this cutout nicely:
 <details>
   <summary><b>USB daughter board</b></summary>
 
-I replaced the Neo65's stock daughter board with a female USB-C breakout board (red), held in place with a 3d printed bracket and the original screws:
+I replaced the Neo65's stock daughter board with a female USB-C breakout board (the red PCB, from Aliexpress), held in place with a 3d printed bracket and the original screws:
 
 ![Female breakout board](/images/usb1.jpg)
 
@@ -137,7 +139,7 @@ The breakout board has capacitors connecting the CC1 and CC2 pins to GND. Withou
 
 ![Capacitor clearance](/images/usb2.jpg)
 
-The female breakout board is soldered to a simple pass-through cable, which is just made up of four wires soldered pin-for-pin between the female breakout board's VCC, GND, Data+ and Data- pads, and their counterparts on a male USB-C breakout board:
+The female breakout board is soldered to a simple pass-through cable, which is just made up of four wires soldered pin-for-pin between the female breakout board's VCC, GND, Data+ and Data- pads, and their counterparts on a male USB-C breakout board (from Aliexpress):
 
 ![Passthrough cable](/images/usb3.jpg)
 
@@ -150,7 +152,7 @@ Finally, the male breakout board plugged in to the nice!nano:
 <details>
   <summary><b>Battery</b></summary>
 
-The battery is a generic 3040102 (3mm x 40mm x 102mm) that fits very well into the battery cutout. The cutout is 4mm thick, and it is important that the battery is thinner than this to avoid a Note7-style fire. The battery is held in place with some more Kapton tape.
+The battery is a generic 3040102 (3mm x 40mm x 102mm, from Aliexpress) that fits very well into the battery cutout. The cutout is 4mm thick, and it is important that the battery is thinner than this to avoid a Note7-style fire. The battery is held in place with some more Kapton tape.
 
 ![Battery assembly](/images/battery1.jpg)
 
