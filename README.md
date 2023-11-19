@@ -2,7 +2,7 @@
 
 ![Pome76](/images/pome76.jpg)
 
-Pome76 is a keyboard that attempts to strike a personal balance between productivity, ergonomics, aesthetics, and cost. It starts as a Neo65 and adds a custom PCB powered by a nice!nano v2 and ZMK firmware. It is designed around an unconventional keymap which pushes the home positions as far towards the left and right edges of the board board as possible (note the position of the F and J keys).
+Pome76 attempts to balance productivity, ergonomics, aesthetics, and cost. It is a Neo65 with a custom nice!nano based PCB and ZMK firmware. It uses an unusual keymap which pushes the home positions to the left and right edges of the board.
 
 If you are interested in one, let me know as I still have leftover PCBs.
 
@@ -10,7 +10,7 @@ Gerber files are coming soon.
 
 # Keymap
 
-Blue = left hand, red = right hand, and white = infrequently used:
+Blue = left hand, red = right hand, and white = rarely used:
 
 ![Keymap](/images/keymap.png)
 
