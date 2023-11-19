@@ -2,7 +2,7 @@
 
 ![Pome76](/images/pome76.jpg)
 
-Pome76 attempts to balance productivity, ergonomics, aesthetics, and cost. It is a Neo65 with a custom nice!nano based PCB and ZMK firmware. It uses an unusual keymap which pushes the home positions to the left and right edges of the board.
+Pome76 attempts to balance productivity, ergonomics, aesthetics, and cost. It is a Neo65 with a custom nice!nano based PCB, ZMK firmware, and an estimated battery life of 1 year. It is designed around an unusual keymap which pushes the home positions out to the edges of the board.
 
 If you are interested in one, I may have PCBs for sale. Gerber files are coming soon.
 
