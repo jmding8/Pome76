@@ -8,7 +8,7 @@ If you are interested in one, I may have PCBs for sale. Gerber files are coming 
 
 # Keymap
 
-Blue = left hand, red = right hand, and white = rarely used:
+Blue = left hand. Red = right hand. White = rarely used.
 
 ![Keymap](/images/keymap.png)
 
