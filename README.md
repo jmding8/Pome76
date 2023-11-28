@@ -57,16 +57,11 @@ TLDR: For me, columnar-stagger and low-profile are not worth the drawbacks. And 
 <details>
   <summary><b>Why row stagger?</b></summary>
 
- I have used a Kyria (columnar-stagger) and a Kinesis Advantage (sculpted key-well) extensively in the past but found that for me, the main advantage of these keyboards is not due to the non-standard physical layout. For me at least, their big strengths are:
+I used columnar-staggered and sculpted key-well boards (Kyria and Advantage) pretty extensively in the past but found that they made it really hard to go back to a regular keyboard. Since I have to do this pretty often (especially while traveling), this is a pretty big drawback for me.
 
-1. Improved comfort due to relocating the Shift and Ctrl keys away from the lower left corner, towards the center of the board (i.e. reduced ulnar deviation).
-2. Improved accessibility of the navigation keys through the use of layers (arrows, home, end, page up/down).
+I also just never experienced a significant improvement in comfort or productivity from these new layouts. Although theoretically they should be better, it just didn't seem to translate into real world benefits for me. At the end of the day, I personally couldn't justify abandoning row-stagger.
 
-These are features we can have in a row-stagger format.
-
-I also noticed that using a columnar-stagger or sculpted key-well board makes it difficult for me to go back to a regular keyboard. Since I am sometimes forced to do this (while traveling for example), it is a meaningful drawback for me. On balance, migrating away from row-staggered layouts just isn't worth it for me. 
-
-Note, I do not have RSI or carpal tunnel syndrome, which may be part of why I don't find columnar-stagger or sculpted key-wells worth it.
+For me, moving the Shifts to the home row (S+D and K+L combos) and the modifiers to the thumb cluster basically eliminated ulnar deviation, which seemed to clear up any (admittedly minor) pain I did have.
 
 </details>
 
